@@ -1,5 +1,5 @@
 <h1 align="center">
-  DocsGPT  🦖
+  AuraAI GPT  
 </h1>
 
 <p align="center">
