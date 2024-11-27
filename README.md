@@ -23,19 +23,6 @@ Say goodbye to time-consuming manual searches, and let <strong></strong> help yo
  
 </div>
 
-### Production Support / Help for Companies:
-
-We're eager to provide personalized assistance when deploying your DocsGPT to a live environment.
-
-[Book a Meeting :wave:](https://cal.com/arc53/docsgpt-demo-b2b)⁠
-
-[Send Email :email:](mailto:contact@arc53.com?subject=DocsGPT%20support%2Fsolutions)
-
-
-<img src="https://github.com/user-attachments/assets/9a1f21de-7a15-4e42-9424-70d22ba5a913" alt="video-example-of-docs-gpt" width="1000" height="500">
-
-## Roadmap
-
 You can find our roadmap [here](https://github.com/orgs/arc53/projects/2). Please don't hesitate to contribute or create issues, it helps us improve DocsGPT!
 
 ## Our Open-Source Models Optimized for DocsGPT:
