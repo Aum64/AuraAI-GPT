@@ -7,33 +7,10 @@
 </p>
 
 <p align="left">
-  <strong><a href="https://www.docsgpt.cloud/">DocsGPT</a></strong> is a cutting-edge open-source solution that streamlines the process of finding information in the project documentation. With its integration of the powerful <strong>GPT</strong> models, developers can easily ask questions about a project and receive accurate answers.
+  <strong>AuraAI GPT</strong> is a cutting-edge open-source solution that streamlines the process of finding information in the project documentation. With its integration of the powerful <strong>GPT</strong> models, developers can easily ask questions about a project and receive accurate answers.
   
 Say goodbye to time-consuming manual searches, and let <strong></strong> help you quickly find the information you need. Try it out and see how it revolutionizes your project documentation experience. Contribute to its development and be a part of the future of AI-powered assistance.
 </p>
-
-<div align="center">
-  
-  <a href="https://github.com/arc53/DocsGPT">![link to main GitHub showing Stars number](https://img.shields.io/github/stars/arc53/docsgpt?style=social)</a>
-  <a href="https://github.com/arc53/DocsGPT">![link to main GitHub showing Forks number](https://img.shields.io/github/forks/arc53/docsgpt?style=social)</a>
-  <a href="https://github.com/arc53/DocsGPT/blob/main/LICENSE">![link to license file](https://img.shields.io/github/license/arc53/docsgpt)</a>
-  <a href="https://discord.gg/n5BX8dh8rU">![link to discord](https://img.shields.io/discord/1070046503302877216)</a>
-  <a href="https://twitter.com/docsgptai">![X (formerly Twitter) URL](https://img.shields.io/twitter/follow/docsgptai)</a>
-
- 
-</div>
-
-You can find our roadmap [here](https://github.com/orgs/arc53/projects/2). Please don't hesitate to contribute or create issues, it helps us improve DocsGPT!
-
-## Our Open-Source Models Optimized for DocsGPT:
-
-| Name                                                                  | Base Model  | Requirements (or similar) |
-| --------------------------------------------------------------------- | ----------- | ------------------------- |
-| [Docsgpt-7b-mistral](https://huggingface.co/Arc53/docsgpt-7b-mistral)   | Mistral-7b   | 1xA10G gpu                |
-| [Docsgpt-14b](https://huggingface.co/Arc53/docsgpt-14b)               | llama-2-14b | 2xA10 gpu's               |
-| [Docsgpt-40b-falcon](https://huggingface.co/Arc53/docsgpt-40b-falcon) | falcon-40b  | 8xA10G gpu's              |
-
-If you don't have enough resources to run it, you can use bitsnbytes to quantize.
 
 ## End to End AI Framework for Information Retrieval
 
