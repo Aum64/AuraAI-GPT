@@ -12,10 +12,6 @@
 Say goodbye to time-consuming manual searches, and let <strong></strong> help you quickly find the information you need. Try it out and see how it revolutionizes your project documentation experience. Contribute to its development and be a part of the future of AI-powered assistance.
 </p>
 
-## End to End AI Framework for Information Retrieval
-
-![Architecture chart](https://github.com/user-attachments/assets/fc6a7841-ddfc-45e6-b5a0-d05fe648cbe2)
-
 ## Useful Links
 
 - :mag: :fire: [Cloud Version](https://app.docsgpt.cloud/)
